@@ -1,0 +1,542 @@
+2020-12-08 00:23:50,477 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 00:23:51,100 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (167da2c7ba06e5a92dbaf3d4e00802e6)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 00:23:52,843 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (167da2c7ba06e5a92dbaf3d4e00802e6)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 00:23:53,530 - Pages -INFO - Enter your Mobile No
+2020-12-08 00:23:53,532 - Pages -INFO - Entering the Mobile No
+2020-12-08 00:23:53,872 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (167da2c7ba06e5a92dbaf3d4e00802e6)] -> xpath: //input[@id='phoneno']]
+2020-12-08 00:23:54,740 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (167da2c7ba06e5a92dbaf3d4e00802e6)] -> xpath: //input[@id='phoneno']]
+2020-12-08 00:23:56,775 - Pages -INFO - Clicking on send OTP
+2020-12-08 00:23:57,336 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (167da2c7ba06e5a92dbaf3d4e00802e6)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 00:24:00,166 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (167da2c7ba06e5a92dbaf3d4e00802e6)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 00:24:25,656 - Pages -INFO - Filling the OTP
+2020-12-08 00:24:25,804 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (167da2c7ba06e5a92dbaf3d4e00802e6)] -> xpath: //div[@class="enter-detail mt-4 mb-1"]]
+2020-12-08 00:24:26,248 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (167da2c7ba06e5a92dbaf3d4e00802e6)] -> xpath: //div[@class="enter-detail mt-4 mb-1"]]
+2020-12-08 00:39:48,299 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 00:39:48,668 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3d48af379828c369af808080e656e5c6)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 00:39:49,761 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3d48af379828c369af808080e656e5c6)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 00:39:52,135 - Pages -INFO - Enter your Mobile No
+2020-12-08 00:39:52,137 - Pages -INFO - Entering the Mobile No
+2020-12-08 00:39:52,288 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3d48af379828c369af808080e656e5c6)] -> xpath: //input[@id='phoneno']]
+2020-12-08 00:39:52,623 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3d48af379828c369af808080e656e5c6)] -> xpath: //input[@id='phoneno']]
+2020-12-08 00:39:53,353 - Pages -INFO - Clicking on send OTP
+2020-12-08 00:39:53,590 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3d48af379828c369af808080e656e5c6)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 00:39:54,601 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3d48af379828c369af808080e656e5c6)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 00:54:09,220 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 00:54:09,456 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (ce1322f2df0373faca37651a1fc952f5)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 00:54:09,898 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (ce1322f2df0373faca37651a1fc952f5)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 00:54:10,221 - Pages -INFO - Enter your Mobile No
+2020-12-08 00:54:10,222 - Pages -INFO - Entering the Mobile No
+2020-12-08 00:54:10,570 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='phoneno']'
+2020-12-08 00:54:16,990 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (ce1322f2df0373faca37651a1fc952f5)] -> xpath: //input[@id='phoneno']]
+2020-12-08 00:54:18,137 - Pages -INFO - Clicking on send OTP
+2020-12-08 00:54:18,280 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (ce1322f2df0373faca37651a1fc952f5)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 00:54:18,822 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (ce1322f2df0373faca37651a1fc952f5)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 00:54:43,882 - Pages -INFO - Filling the OTP
+2020-12-08 00:54:44,112 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (ce1322f2df0373faca37651a1fc952f5)] -> xpath: //div[@class="enter-detail mt-4 mb-1"]]
+2020-12-08 00:54:44,635 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (ce1322f2df0373faca37651a1fc952f5)] -> xpath: //div[@class="enter-detail mt-4 mb-1"]]
+2020-12-08 01:00:18,576 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 01:00:18,826 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 01:00:19,410 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 01:00:19,549 - Pages -INFO - Enter your Mobile No
+2020-12-08 01:00:19,553 - Pages -INFO - Entering the Mobile No
+2020-12-08 01:00:19,837 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='phoneno']'
+2020-12-08 01:00:20,545 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //input[@id='phoneno']]
+2020-12-08 01:00:21,049 - Pages -INFO - Clicking on send OTP
+2020-12-08 01:00:21,093 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 01:00:21,361 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 01:00:44,825 - Pages -INFO - Filling the OTP
+2020-12-08 01:00:44,858 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //input[@type='tel']]
+2020-12-08 01:00:45,087 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //input[@type='tel']]
+2020-12-08 01:00:45,281 - Pages -INFO - Logging in
+2020-12-08 01:00:45,321 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //button[@class='red button']]
+2020-12-08 01:00:45,525 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //button[@class='red button']]
+2020-12-08 01:00:45,634 - Pages -INFO - Typing the Song Name
+2020-12-08 01:00:45,666 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //div[@class="searchBtn position-absolute"]//i]
+2020-12-08 01:00:45,879 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2463c8d73a6f1f33ed242e295df3ca21)] -> xpath: //div[@class="searchBtn position-absolute"]//i]
+2020-12-08 02:04:59,616 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:04:59,687 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:05:00,042 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:05:00,334 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:05:00,335 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:05:00,753 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:05:01,117 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:05:01,771 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:05:01,817 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:05:02,195 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:05:19,730 - Pages -INFO - Filling the OTP
+2020-12-08 02:05:19,770 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //input[@type='tel']]
+2020-12-08 02:05:20,007 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //input[@type='tel']]
+2020-12-08 02:05:20,196 - Pages -INFO - Logging in
+2020-12-08 02:05:20,235 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //button[@class='red button']]
+2020-12-08 02:05:20,492 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (876f2e0bf38cd5f1bf78c1045a69eb1c)] -> xpath: //button[@class='red button']]
+2020-12-08 02:06:48,376 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:06:48,425 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:06:48,744 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:06:48,971 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:06:48,972 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:06:49,516 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:06:49,966 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:06:50,703 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:06:50,752 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:06:51,112 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:07:06,068 - Pages -INFO - Filling the OTP
+2020-12-08 02:07:06,101 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //input[@type='tel']]
+2020-12-08 02:07:06,335 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //input[@type='tel']]
+2020-12-08 02:07:06,527 - Pages -INFO - Logging in
+2020-12-08 02:07:06,570 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //button[@class='red button']]
+2020-12-08 02:07:06,908 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (c033b0e277a2a32ff6cef9957b0cad0f)] -> xpath: //button[@class='red button']]
+2020-12-08 02:10:59,591 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:10:59,650 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:11:00,025 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:11:00,383 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:11:00,384 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:11:00,790 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:11:01,200 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:11:01,910 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:11:01,969 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:11:02,334 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:11:29,935 - Pages -INFO - Filling the OTP
+2020-12-08 02:11:29,966 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //input[@type='tel']]
+2020-12-08 02:11:30,163 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //input[@type='tel']]
+2020-12-08 02:11:30,329 - Pages -INFO - Logging in
+2020-12-08 02:11:30,365 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //button[@class='red button']]
+2020-12-08 02:11:30,588 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //button[@class='red button']]
+2020-12-08 02:11:35,519 - Pages -INFO -  is playing
+2020-12-08 02:11:35,550 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //div[@class="searchBtn position-absolute"]//i]
+2020-12-08 02:11:35,717 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (3890a7192fa3b7a1027e95c370d62da3)] -> xpath: //div[@class="searchBtn position-absolute"]//i]
+2020-12-08 02:15:02,465 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:15:03,071 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:15:05,300 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:15:05,811 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:15:05,813 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:15:06,891 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:15:08,793 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:15:10,310 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:15:10,433 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:15:11,069 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:15:30,833 - Pages -INFO - Filling the OTP
+2020-12-08 02:15:31,187 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //input[@type='tel']]
+2020-12-08 02:15:32,181 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //input[@type='tel']]
+2020-12-08 02:15:33,186 - Pages -INFO - Logging in
+2020-12-08 02:15:33,510 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //button[@class='red button']]
+2020-12-08 02:15:34,597 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //button[@class='red button']]
+2020-12-08 02:15:53,102 - Pages -INFO - chittiyaan kalaiyaan is playing
+2020-12-08 02:15:53,207 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //div[@class="searchBtn position-absolute"]//i]
+2020-12-08 02:15:53,853 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (9f6ce75a1843ec4a4b12c63c52d72e60)] -> xpath: //div[@class="searchBtn position-absolute"]//i]
+2020-12-08 02:23:10,614 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:23:10,752 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:23:11,419 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:23:11,786 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:23:11,788 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:23:12,570 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:23:14,013 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:23:15,569 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:23:15,673 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:23:16,294 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:23:29,612 - Pages -INFO - Filling the OTP
+2020-12-08 02:23:29,700 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //input[@type='tel']]
+2020-12-08 02:23:30,184 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //input[@type='tel']]
+2020-12-08 02:23:30,593 - Pages -INFO - Logging in
+2020-12-08 02:23:30,727 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //button[@class='red button']]
+2020-12-08 02:23:31,393 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //button[@class='red button']]
+2020-12-08 02:23:38,555 - Pages -INFO - chittiyaan kalaiyaan is playing
+2020-12-08 02:23:38,648 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:23:39,086 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:23:40,468 - Pages -INFO - searching the song
+2020-12-08 02:23:40,702 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //div[@class="searchBtn position-absolute"]//i]
+2020-12-08 02:23:41,638 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d6eac756adde7636b466fb42035e4d9e)] -> xpath: //div[@class="searchBtn position-absolute"]//i]
+2020-12-08 02:23:41,927 - Pages -INFO - Clicking on Play button
+2020-12-08 02:23:42,110 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 02:29:06,365 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:29:06,493 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:29:07,233 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:29:07,911 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:29:07,914 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:29:09,398 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:29:13,278 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:29:15,289 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:29:15,483 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:29:16,179 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:29:26,366 - Pages -INFO - Filling the OTP
+2020-12-08 02:29:26,455 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //input[@type='tel']]
+2020-12-08 02:29:26,984 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //input[@type='tel']]
+2020-12-08 02:29:27,422 - Pages -INFO - Logging in
+2020-12-08 02:29:27,818 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //button[@class='red button']]
+2020-12-08 02:29:28,924 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //button[@class='red button']]
+2020-12-08 02:29:41,331 - Pages -INFO - On My Way is playing
+2020-12-08 02:29:41,484 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:29:42,405 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:29:44,170 - Pages -INFO - searching the song
+2020-12-08 02:29:44,359 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 02:29:45,129 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (528926fce148324842ec5cea3d875ce1)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 02:29:45,588 - Pages -INFO - Clicking on Play button
+2020-12-08 02:29:46,015 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 02:35:24,382 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:35:24,436 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:35:24,774 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:35:25,085 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:35:25,086 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:35:25,633 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:35:26,070 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:35:26,584 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:35:26,631 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:35:26,950 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:35:46,421 - Pages -INFO - Filling the OTP
+2020-12-08 02:35:46,456 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //input[@type='tel']]
+2020-12-08 02:35:46,648 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //input[@type='tel']]
+2020-12-08 02:35:46,831 - Pages -INFO - Logging in
+2020-12-08 02:35:46,871 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //button[@class='red button']]
+2020-12-08 02:35:47,094 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //button[@class='red button']]
+2020-12-08 02:36:00,596 - Pages -INFO - Say My Name is playing
+2020-12-08 02:36:00,624 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:36:00,791 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:36:01,164 - Pages -INFO - searching the song
+2020-12-08 02:36:01,217 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 02:36:01,547 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (cccd5a1b49a1d6c7d465c8394de901e5)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 02:36:01,650 - Pages -INFO - Clicking on Play button
+2020-12-08 02:36:01,743 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 02:40:57,632 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:40:57,694 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:40:58,330 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:40:58,772 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:40:58,773 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:40:59,246 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:40:59,624 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:41:00,178 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:41:00,237 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:41:00,586 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:41:28,129 - Pages -INFO - Filling the OTP
+2020-12-08 02:41:28,170 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //input[@type='tel']]
+2020-12-08 02:41:28,432 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //input[@type='tel']]
+2020-12-08 02:41:28,649 - Pages -INFO - Logging in
+2020-12-08 02:41:28,696 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //button[@class='red button']]
+2020-12-08 02:41:28,956 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //button[@class='red button']]
+2020-12-08 02:41:47,120 - Pages -INFO - Say my name is playing
+2020-12-08 02:41:47,151 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:41:47,379 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:41:47,761 - Pages -INFO - Clicking on Search Icon
+2020-12-08 02:41:47,796 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 02:41:48,081 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 02:41:48,197 - Pages -INFO - searching the song
+2020-12-08 02:41:48,216 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 02:41:48,429 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (679092f4f5002e3a8b33d3beca316573)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 02:41:48,754 - Pages -INFO - Clicking on Play button
+2020-12-08 02:41:48,859 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 02:47:02,288 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 02:47:02,461 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:47:03,373 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 02:47:03,619 - Pages -INFO - Enter your Mobile No
+2020-12-08 02:47:03,620 - Pages -INFO - Entering the Mobile No
+2020-12-08 02:47:04,199 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:47:04,558 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //input[@id='phoneno']]
+2020-12-08 02:47:05,751 - Pages -INFO - Clicking on send OTP
+2020-12-08 02:47:05,952 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:47:06,420 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 02:47:20,851 - Pages -INFO - Filling the OTP
+2020-12-08 02:47:20,904 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //input[@type='tel']]
+2020-12-08 02:47:21,164 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //input[@type='tel']]
+2020-12-08 02:47:21,384 - Pages -INFO - Logging in
+2020-12-08 02:47:21,444 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //button[@class='red button']]
+2020-12-08 02:47:21,950 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //button[@class='red button']]
+2020-12-08 02:47:43,423 - Pages -INFO - Say My Name is playing
+2020-12-08 02:47:43,456 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:47:43,668 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 02:47:44,497 - Pages -INFO - Clicking on Search Icon
+2020-12-08 02:47:44,531 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //i[@class="icon-ic_global_search_dark"]]
+2020-12-08 02:47:44,770 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //i[@class="icon-ic_global_search_dark"]]
+2020-12-08 02:47:44,926 - Pages -INFO - searching the song
+2020-12-08 02:47:44,947 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //i[@class="icon-ic_global_search_dark"]]
+2020-12-08 02:47:45,150 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (28ac3635920cfdc18a876247345fdc33)] -> xpath: //i[@class="icon-ic_global_search_dark"]]
+2020-12-08 02:47:45,213 - Pages -INFO - Clicking on Play button
+2020-12-08 02:47:45,292 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 19:05:11,724 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 19:05:11,931 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:05:12,462 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:05:12,749 - Pages -INFO - Enter your Mobile No
+2020-12-08 19:05:12,750 - Pages -INFO - Entering the Mobile No
+2020-12-08 19:05:13,141 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:05:13,748 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:05:14,423 - Pages -INFO - Clicking on send OTP
+2020-12-08 19:05:14,471 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:05:14,816 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:07:36,934 - Pages -INFO - Filling the OTP
+2020-12-08 19:07:36,965 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //input[@type='tel']]
+2020-12-08 19:07:37,153 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //input[@type='tel']]
+2020-12-08 19:07:37,314 - Pages -INFO - Logging in
+2020-12-08 19:07:37,347 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //button[@class='red button']]
+2020-12-08 19:07:37,561 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //button[@class='red button']]
+2020-12-08 19:07:47,576 - Pages -INFO - Say My Name is playing
+2020-12-08 19:07:47,606 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:07:47,780 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:07:48,225 - Pages -INFO - Clicking on Search Icon
+2020-12-08 19:07:48,290 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //i[@class="icon-ic_global_search_dark"]]
+2020-12-08 19:07:48,541 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (47a1733f0f75b8f66d5f644d8516b3ae)] -> xpath: //i[@class="icon-ic_global_search_dark"]]
+2020-12-08 19:07:48,640 - Pages -INFO - Clicking on Play button
+2020-12-08 19:07:48,925 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 19:11:45,153 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 19:11:45,266 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:11:46,043 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:11:46,858 - Pages -INFO - Enter your Mobile No
+2020-12-08 19:11:46,859 - Pages -INFO - Entering the Mobile No
+2020-12-08 19:11:47,510 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='phoneno']'
+2020-12-08 19:11:47,993 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:11:49,823 - Pages -INFO - Clicking on send OTP
+2020-12-08 19:11:49,962 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:11:50,309 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:11:57,252 - Pages -INFO - Filling the OTP
+2020-12-08 19:11:57,288 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //input[@type='tel']]
+2020-12-08 19:11:57,551 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //input[@type='tel']]
+2020-12-08 19:11:57,815 - Pages -INFO - Logging in
+2020-12-08 19:11:57,851 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //button[@class='red button']]
+2020-12-08 19:11:58,086 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //button[@class='red button']]
+2020-12-08 19:12:12,467 - Pages -INFO - say my name is playing
+2020-12-08 19:12:12,501 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:12:12,699 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:12:12,988 - Pages -INFO - Clicking on Search Icon
+2020-12-08 19:12:13,012 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 19:12:13,196 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (917186abaaf1596f722a6b476f00a49d)] -> xpath: //div[@class="searchBtn position-absolute"]]
+2020-12-08 19:12:13,346 - Pages -INFO - Clicking on Play button
+2020-12-08 19:12:13,495 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 19:24:12,368 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 19:24:12,569 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:24:13,990 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:24:14,470 - Pages -INFO - Enter your Mobile No
+2020-12-08 19:24:14,470 - Pages -INFO - Entering the Mobile No
+2020-12-08 19:24:15,272 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:24:17,832 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:24:19,131 - Pages -INFO - Clicking on send OTP
+2020-12-08 19:24:19,251 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:24:20,066 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:24:26,928 - Pages -INFO - Filling the OTP
+2020-12-08 19:24:27,030 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //input[@type='tel']]
+2020-12-08 19:24:27,571 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //input[@type='tel']]
+2020-12-08 19:24:27,748 - Pages -INFO - Logging in
+2020-12-08 19:24:27,824 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //button[@class='red button']]
+2020-12-08 19:24:28,110 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //button[@class='red button']]
+2020-12-08 19:24:43,617 - Pages -INFO - Say my name is playing
+2020-12-08 19:24:43,853 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:24:44,171 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0d0f5f7cc4e4acdb1fd347be2bdb4e01)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:24:44,554 - Pages -INFO - Clicking on Play button
+2020-12-08 19:24:45,676 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 19:52:49,534 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 19:52:50,387 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:52:51,079 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:52:51,424 - Pages -INFO - Enter your Mobile No
+2020-12-08 19:52:51,425 - Pages -INFO - Entering the Mobile No
+2020-12-08 19:52:52,004 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:52:52,553 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:52:53,070 - Pages -INFO - Clicking on send OTP
+2020-12-08 19:52:53,100 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:52:53,490 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:53:01,552 - Pages -INFO - Filling the OTP
+2020-12-08 19:53:01,583 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //input[@type='tel']]
+2020-12-08 19:53:01,788 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //input[@type='tel']]
+2020-12-08 19:53:01,900 - Pages -INFO - Logging in
+2020-12-08 19:53:01,938 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //button[@class='red button']]
+2020-12-08 19:53:02,187 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //button[@class='red button']]
+2020-12-08 19:53:09,289 - Pages -INFO - Say My Name is playing
+2020-12-08 19:53:09,355 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:53:09,618 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (aa6d15a4cfb998810998a313de696b19)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:53:10,256 - Pages -INFO - Clicking on Play button
+2020-12-08 19:53:11,476 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 19:58:06,656 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 19:58:06,702 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:58:07,010 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 19:58:07,262 - Pages -INFO - Enter your Mobile No
+2020-12-08 19:58:07,263 - Pages -INFO - Entering the Mobile No
+2020-12-08 19:58:07,960 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:58:08,435 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //input[@id='phoneno']]
+2020-12-08 19:58:09,043 - Pages -INFO - Clicking on send OTP
+2020-12-08 19:58:09,086 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:58:09,406 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 19:58:25,897 - Pages -INFO - Filling the OTP
+2020-12-08 19:58:25,939 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //input[@type='tel']]
+2020-12-08 19:58:26,194 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //input[@type='tel']]
+2020-12-08 19:58:26,397 - Pages -INFO - Logging in
+2020-12-08 19:58:26,461 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //button[@class='red button']]
+2020-12-08 19:58:26,942 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //button[@class='red button']]
+2020-12-08 19:58:45,945 - Pages -INFO - Say My Name is playing
+2020-12-08 19:58:45,981 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 19:58:46,224 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (2cb82be1a63ab0765004e23917a065a5)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:00:47,630 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 20:00:47,664 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:00:48,124 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:00:48,535 - Pages -INFO - Enter your Mobile No
+2020-12-08 20:00:48,537 - Pages -INFO - Entering the Mobile No
+2020-12-08 20:00:49,012 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:00:49,496 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:00:50,053 - Pages -INFO - Clicking on send OTP
+2020-12-08 20:00:50,104 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:00:50,507 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:01:25,911 - Pages -INFO - Filling the OTP
+2020-12-08 20:01:25,942 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //input[@type='tel']]
+2020-12-08 20:01:26,143 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //input[@type='tel']]
+2020-12-08 20:01:26,295 - Pages -INFO - Logging in
+2020-12-08 20:01:26,338 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //button[@class='red button']]
+2020-12-08 20:01:26,552 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //button[@class='red button']]
+2020-12-08 20:02:02,538 - Pages -INFO - Say My Name is playing
+2020-12-08 20:02:02,566 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:02:02,749 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0fc69775519e2465a13939b842bda6f3)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:02:03,069 - Pages -INFO - Enter is clicked
+2020-12-08 20:02:03,185 - Pages -INFO - Clicking on Play button
+2020-12-08 20:02:03,270 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 20:05:14,128 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 20:05:14,310 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:05:14,717 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:05:14,942 - Pages -INFO - Enter your Mobile No
+2020-12-08 20:05:14,943 - Pages -INFO - Entering the Mobile No
+2020-12-08 20:05:15,746 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='phoneno']'
+2020-12-08 20:05:16,089 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:05:16,759 - Pages -INFO - Clicking on send OTP
+2020-12-08 20:05:16,807 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:05:17,173 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:05:45,291 - Pages -INFO - Filling the OTP
+2020-12-08 20:05:45,320 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //input[@type='tel']]
+2020-12-08 20:05:45,523 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //input[@type='tel']]
+2020-12-08 20:05:45,678 - Pages -INFO - Logging in
+2020-12-08 20:05:45,712 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //button[@class='red button']]
+2020-12-08 20:05:45,908 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //button[@class='red button']]
+2020-12-08 20:05:58,380 - Pages -INFO - say my name is playing
+2020-12-08 20:05:58,407 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:05:58,585 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:05:59,045 - Pages -INFO - Enter is clicked
+2020-12-08 20:05:59,143 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:05:59,352 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (14536c69514b37a8b9188cb604ab0137)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:05:59,475 - Pages -INFO - Clicking on Play button
+2020-12-08 20:05:59,508 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 20:31:47,908 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 20:31:47,974 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:31:48,948 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:31:49,686 - Pages -INFO - Enter your Mobile No
+2020-12-08 20:31:49,687 - Pages -INFO - Entering the Mobile No
+2020-12-08 20:31:50,274 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:31:50,815 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:31:51,571 - Pages -INFO - Clicking on send OTP
+2020-12-08 20:31:52,055 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:31:52,678 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:32:28,265 - Pages -INFO - Filling the OTP
+2020-12-08 20:32:28,296 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //input[@type='tel']]
+2020-12-08 20:32:28,490 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //input[@type='tel']]
+2020-12-08 20:32:28,637 - Pages -INFO - Logging in
+2020-12-08 20:32:28,668 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //button[@class='red button']]
+2020-12-08 20:32:28,877 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //button[@class='red button']]
+2020-12-08 20:32:48,029 - Pages -INFO - Say My Name is playing
+2020-12-08 20:32:48,055 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:32:48,231 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:32:48,669 - Pages -INFO - Enter is clicked
+2020-12-08 20:32:48,702 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:32:48,917 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:32:49,019 - Pages -INFO - Click the on music
+2020-12-08 20:32:49,218 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (0a6aba09fd33245d05bafe933b13c2e9)] -> xpath: //div[@class="hoverState position-absolute border-radius-10"]]
+2020-12-08 20:40:46,671 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 20:40:46,754 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:40:47,257 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:40:47,713 - Pages -INFO - Enter your Mobile No
+2020-12-08 20:40:47,714 - Pages -INFO - Entering the Mobile No
+2020-12-08 20:40:48,603 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:40:49,130 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:40:49,744 - Pages -INFO - Clicking on send OTP
+2020-12-08 20:40:49,793 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:40:50,140 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:41:01,166 - Pages -INFO - Filling the OTP
+2020-12-08 20:41:01,205 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //input[@type='tel']]
+2020-12-08 20:41:01,461 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //input[@type='tel']]
+2020-12-08 20:41:01,597 - Pages -INFO - Logging in
+2020-12-08 20:41:01,637 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //button[@class='red button']]
+2020-12-08 20:41:01,869 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //button[@class='red button']]
+2020-12-08 20:41:13,440 - Pages -INFO - Say My Name is playing
+2020-12-08 20:41:13,469 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:41:13,661 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:41:14,255 - Pages -INFO - Enter is clicked
+2020-12-08 20:41:14,296 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:41:14,502 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:41:14,603 - Pages -INFO - Click the on music
+2020-12-08 20:41:14,778 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (16ad45bb184c7ef5d96613ada1288b2d)] -> xpath: //div[@class='hoverState position-absolute border-radius-10']]
+2020-12-08 20:50:58,978 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 20:50:59,178 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:50:59,810 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:51:00,209 - Pages -INFO - Enter your Mobile No
+2020-12-08 20:51:00,210 - Pages -INFO - Entering the Mobile No
+2020-12-08 20:51:00,946 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='phoneno']'
+2020-12-08 20:51:01,291 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:51:01,903 - Pages -INFO - Clicking on send OTP
+2020-12-08 20:51:01,963 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:51:02,729 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:51:14,424 - Pages -INFO - Filling the OTP
+2020-12-08 20:51:14,462 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //input[@type='tel']]
+2020-12-08 20:51:14,728 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //input[@type='tel']]
+2020-12-08 20:51:14,869 - Pages -INFO - Logging in
+2020-12-08 20:51:14,923 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //button[@class='red button']]
+2020-12-08 20:51:15,168 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //button[@class='red button']]
+2020-12-08 20:51:22,991 - Pages -INFO - Say my Name is playing
+2020-12-08 20:51:23,017 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:51:23,260 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:51:23,635 - Pages -INFO - Enter is clicked
+2020-12-08 20:51:23,663 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:51:23,910 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:51:24,016 - Pages -INFO - Clicking the choice
+2020-12-08 20:51:24,229 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //img[@alt='Say My Name']'
+2020-12-08 20:51:26,445 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (6bf377342f089e726ef903ea6963a476)] -> xpath: //img[@alt='Say My Name']]
+2020-12-08 20:51:26,545 - Pages -INFO - Clicking on Play button
+2020-12-08 20:51:26,614 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 20:53:09,752 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 20:53:09,820 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:53:10,178 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 20:53:10,359 - Pages -INFO - Enter your Mobile No
+2020-12-08 20:53:10,360 - Pages -INFO - Entering the Mobile No
+2020-12-08 20:53:10,969 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:53:11,349 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //input[@id='phoneno']]
+2020-12-08 20:53:11,897 - Pages -INFO - Clicking on send OTP
+2020-12-08 20:53:11,941 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:53:12,254 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 20:53:22,096 - Pages -INFO - Filling the OTP
+2020-12-08 20:53:22,142 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //input[@type='tel']]
+2020-12-08 20:53:22,410 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //input[@type='tel']]
+2020-12-08 20:53:22,581 - Pages -INFO - Logging in
+2020-12-08 20:53:22,624 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //button[@class='red button']]
+2020-12-08 20:53:22,849 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //button[@class='red button']]
+2020-12-08 20:53:31,776 - Pages -INFO - Say My Name is playing
+2020-12-08 20:53:31,805 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:53:31,971 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:53:32,543 - Pages -INFO - Enter is clicked
+2020-12-08 20:53:32,594 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:53:32,815 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 20:53:32,910 - Pages -INFO - Clicking the choice
+2020-12-08 20:53:33,104 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //img[@alt='Say My Name']'
+2020-12-08 20:53:35,325 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (b589101c317c2cf0b5b567eb5d4e9f49)] -> xpath: //img[@alt='Say My Name']]
+2020-12-08 20:53:35,498 - Pages -INFO - Clicking on Play button
+2020-12-08 20:53:35,554 - Pages -INFO - Looking for element Proxy element for: DefaultElementLocator 'By.xpath: //button[@xpath='1']'
+2020-12-08 21:00:09,654 - Pages -INFO - Just Clicked Login Icon
+2020-12-08 21:00:09,703 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 21:00:10,014 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //div[@class='signin ml-4']]
+2020-12-08 21:00:10,158 - Pages -INFO - Enter your Mobile No
+2020-12-08 21:00:10,159 - Pages -INFO - Entering the Mobile No
+2020-12-08 21:00:10,643 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //input[@id='phoneno']]
+2020-12-08 21:00:11,003 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //input[@id='phoneno']]
+2020-12-08 21:00:11,660 - Pages -INFO - Clicking on send OTP
+2020-12-08 21:00:11,708 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 21:00:12,020 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-08 21:00:36,545 - Pages -INFO - Filling the OTP
+2020-12-08 21:00:36,574 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //input[@type='tel']]
+2020-12-08 21:00:36,769 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //input[@type='tel']]
+2020-12-08 21:00:36,920 - Pages -INFO - Logging in
+2020-12-08 21:00:36,954 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //button[@class='red button']]
+2020-12-08 21:00:37,152 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //button[@class='red button']]
+2020-12-08 21:00:49,963 - Pages -INFO - Say My Name is playing
+2020-12-08 21:00:49,998 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 21:00:50,177 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 21:00:50,580 - Pages -INFO - Enter is clicked
+2020-12-08 21:00:50,617 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 21:00:50,834 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (53e76afacbc9b7848cf1d2f8025686a9)] -> xpath: //input[contains(@placeholder,'music you love!')]]
+2020-12-08 21:00:50,931 - Pages -INFO - Clicking the choice
+2020-12-08 21:00:51,242 - Pages -INFO - Move to element Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon-ic_global_play_dark position-absolute rounded-circle splay']'
+2020-12-09 00:29:13,866 - Pages -INFO - Just Clicked Login Icon
+2020-12-09 00:29:13,953 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d3b31368869f432487510e3fce33d1d5)] -> xpath: //div[@class='signin ml-4']]
+2020-12-09 00:29:15,010 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d3b31368869f432487510e3fce33d1d5)] -> xpath: //div[@class='signin ml-4']]
+2020-12-09 00:29:15,487 - Pages -INFO - Enter your Mobile No
+2020-12-09 00:29:15,488 - Pages -INFO - Entering the Mobile No
+2020-12-09 00:29:16,053 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d3b31368869f432487510e3fce33d1d5)] -> xpath: //input[@id='phoneno']]
+2020-12-09 00:29:16,532 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d3b31368869f432487510e3fce33d1d5)] -> xpath: //input[@id='phoneno']]
+2020-12-09 00:29:17,186 - Pages -INFO - Clicking on send OTP
+2020-12-09 00:29:17,259 - Pages -INFO - Looking for element [[ChromeDriver: chrome on WINDOWS (d3b31368869f432487510e3fce33d1d5)] -> xpath: //div[@class="loginCta mt-4"]//button]
+2020-12-09 00:29:17,675 - Pages -INFO - Element found [[ChromeDriver: chrome on WINDOWS (d3b31368869f432487510e3fce33d1d5)] -> xpath: //div[@class="loginCta mt-4"]//button]
